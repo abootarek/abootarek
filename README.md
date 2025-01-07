@@ -19,7 +19,6 @@
 
 ### Connect with Me :
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" width="28">
 <a href="https://www.linkedin.com/in/mohamed-tarek-71531b274/"><img src="https://img.shields.io/badge/-Mohamed%20Tarek-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
