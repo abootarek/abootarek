@@ -15,22 +15,31 @@
 
 ### 👨‍💻 About Me
 
-- 🏢 I'm a **Software Engineer**
-- 🎓 I'm currently a CS student, always learning and growing
-- 💬 Ask me about **Flutter**, **Dart**, or anything related to mobile development
-- ⚽ I'm a huge football fan — **Hala Madrid!** My favorite player is **Cristiano Ronaldo**
+- 💼 I'm a **Software Engineer** specialized in **Mobile Development**
+- 🎓 CS Graduate, always seeking growth and learning opportunities
+- 💬 Ask me about **Flutter**, **Dart**, or anything related to mobile apps
+- ⚽ Football is my second passion — **Hala Madrid!** ⚪⚫
+- 🌱 Currently working on polishing my portfolio and open source contributions
 
 ---
 
 ### 📫 Connect with Me
 
-<a href="https://www.linkedin.com/in/mohamed-tarek-71531b274/">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-tarek-71531b274/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:engmohamedtarekhosni@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/mohamed-tarek">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🛠 Tech Stack
+### ⚙️ Tech Stack
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -41,7 +50,13 @@
 
 ---
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-tarek&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-tarek&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-tarek&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-tarek&theme=radical" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-tarek&layout=compact&theme=radical" width="50%" />
 </p>
