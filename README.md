@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100%" />
+
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250" />
 
 <h3 align="center">
@@ -35,6 +37,9 @@
   <a href="https://github.com/mohamed-tarek">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://abootarek.github.io/protofilo/">
+    <img src="https://img.shields.io/badge/-My%20Portfolio-FF4081?style=for-the-badge&logo=web&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -59,4 +64,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-tarek&layout=compact&theme=radical" width="50%" />
-</p>
+</p> 
