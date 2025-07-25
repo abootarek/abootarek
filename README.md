@@ -68,12 +68,7 @@
 - **Jobizz App (Your Latest Project):** A modern, intelligent job search application built with Flutter, adhering to Clean Architecture and BLoC state management.
   - _Key features:_ AI Chatbot for smart suggestions, user authentication, multiple job profiles, job saving & application tracking, robust search & filtering, and responsive UI.
   - [**Link to Jobizz App Repo (if public)**](https://github.com/AbdulrahmanRamadan22/jobizz) 
-- **[Project 2 Name - e.g., E-commerce App]:** A cross-platform e-commerce application demonstrating advanced Flutter UI, API integration, and local database management.
-  - _Key features:_ User authentication, product catalog, shopping cart, order history, payment integration.
-  - [Link to Project 2 Repo](https://github.com/mohamed-tarek/project2_example)
-- **[Project 3 Name - e.g., Social Media Clone]:** A social media application clone focusing on real-time data, user interaction, and media sharing functionalities.
-  - _Key features:_ User profiles, post creation, real-time chat, notifications, image/video sharing.
-  - [Link to Project 3 Repo](https://github.com/mohamed-tarek/project3_example)
+
 
 ---
 
