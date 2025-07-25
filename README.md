@@ -62,7 +62,7 @@
 ### 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZEcOqQjM5xO97Gv0m2/giphy.gif" alt="Projects GIF" width="200" height="200"/> 
+  <img src="https://media.giphy.com/media/ZEcOqQjM5xO97Gv0m2/giphy.gif" alt="Projects GIF" width="350" height="200"/> 
 </p>
 
 - **Jobizz App (Your Latest Project):** A modern, intelligent job search application built with Flutter, adhering to Clean Architecture and BLoC state management.
