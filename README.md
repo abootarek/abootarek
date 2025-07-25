@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="Coding Banner" width="100%" /> 
+  <img src="https://media.giphy.com/media/KD5d2mYp0f3Wf4Q3L4/giphy.gif" alt="Flutter Animation Banner" width="100%" /> 
 </p>
 
 <h1 align="center">
@@ -15,17 +15,17 @@
 
 <p align="center">
   <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Anime Coding GIF" width="280px" /> 
-  </p>
+</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 👋 Hi there! I'm **Mohamed Tarek**, a dedicated and results-driven **Software Engineer** with a passion for building impactful mobile applications.
+- 👋 Hi there! I'm **Mohamed Tarek**, a passionate and dedicated **Software Engineer** specializing in **Mobile Application Development**.
 - 🚀 I specialize in **Mobile Application Development** using **Flutter** and **Dart**, creating seamless and high-performance user experiences across various platforms.
 - 🎓 I hold a **Bachelor's degree in Computer Science**, which laid the foundation for my continuous journey of learning and growth in the tech world.
 - 💻 My expertise primarily lies in developing robust, scalable, and visually appealing cross-platform applications for **Android** and **iOS**.
-- 💬 Feel free to reach out to me about anything related to **Flutter development**, **Dart programming**, **mobile app architecture**, state management (especially BLoC), or general **software engineering best practices**.
+- 💬 Feel free to reach out to me about anything related to **Flutter development**, **Dart programming**, **mobile app architecture**, state management (especially BLoC), or general **software engineering principles**.
 - 🥅 I'm always on the lookout for challenging projects, open-source contributions, and collaborative opportunities where I can apply my skills and learn from others.
 - ⚡ Beyond coding, **Football is my second passion** — a true **Hala Madrid!** ⚪⚫ fan.
 - 🌱 Currently, I'm focused on expanding my knowledge in backend technologies and refining my portfolio to showcase my best work.
@@ -37,7 +37,6 @@
 ### 🌟 What I'm Learning & Exploring
 
 - **Advanced Flutter Animations:** Delving deeper into custom implicit and explicit animations for stunning UIs.
-- **Backend Development:** Gaining proficiency in Firebase, Node.js, and server-side logic to build full-stack mobile solutions.
 - **DevOps for Mobile:** Learning about continuous integration and continuous delivery (CI/CD) pipelines for efficient Flutter app deployment.
 - **UI/UX Principles:** Constantly improving my understanding of user-centered design to craft intuitive interfaces.
 
@@ -63,12 +62,12 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZEcOqQjM5xO97Gv0m2/giphy.gif" alt="Projects GIF" width="80" height="80"/> 
-  </p>
+</p>
 
 - **Jobizz App (Your Latest Project):** A modern, intelligent job search application built with Flutter, adhering to Clean Architecture and BLoC state management.
   - _Key features:_ AI Chatbot for smart suggestions, user authentication, multiple job profiles, job saving & application tracking, robust search & filtering, and responsive UI.
   - [**Link to Jobizz App Repo (if public)**](https://github.com/AbdulrahmanRamadan22/jobizz) 
-  - **[Project 2 Name - e.g., E-commerce App]:** A cross-platform e-commerce application demonstrating advanced Flutter UI, API integration, and local database management.
+- **[Project 2 Name - e.g., E-commerce App]:** A cross-platform e-commerce application demonstrating advanced Flutter UI, API integration, and local database management.
   - _Key features:_ User authentication, product catalog, shopping cart, order history, payment integration.
   - [Link to Project 2 Repo](https://github.com/mohamed-tarek/project2_example)
 - **[Project 3 Name - e.g., Social Media Clone]:** A social media application clone focusing on real-time data, user interaction, and media sharing functionalities.
@@ -111,4 +110,4 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/LmN8xbpB5kK9Bw5JgR/giphy.gif" alt="Happy Coding" width="300"/>
-  </p>
+</p>
