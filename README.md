@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Anime Coding GIF" width="280px" /> 
+  <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Anime Coding GIF" width="100%" /> 
 </p>
 
 ---
