@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/KD5d2mYp0f3Wf4Q3L4/giphy.gif" alt="Flutter Animation Banner" width="100%" /> 
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgator.com%2Fblog%2Fanimated-gif-best-practices-to-optimize-gifs-like-pros%2F&psig=AOvVaw3PV364dRQxKT5wbsyNdqk4&ust=1753498595630000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPii4sKB144DFQAAAAAdAAAAABAE" alt="Flutter Animation Banner" width="100%" /> 
 </p>
 
 <h1 align="center">
