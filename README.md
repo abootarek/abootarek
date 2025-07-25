@@ -1,6 +1,6 @@
 <!-- 👨‍💻 Mobile Developer Anime-Themed GIF Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" alt="Mobile Dev GIF" width="100%" />
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF" width="100%" />
 </p>
 
 <h1 align="center">
