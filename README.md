@@ -1,67 +1,65 @@
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100%" />
+<!-- شريط العنوان المتحرك -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=40&duration=4000&pause=1000&color=FF6B8B&center=true&vCenter=true&width=500&lines=مرحباً+بكم+في+مشروعي;أنا+طارق+عبدالله;مطور+ويب+مبدع" alt="نص متحرك" />
+</div>
 
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250" />
+<!-- صورة شخصية متحركة -->
+<div align="center">
+  <img src="https://i.imgur.com/3J3Q2bL.gif" width="200" height="200" alt="صورة أنمي متحركة"/>
+</div>
 
-<h3 align="center">
-  Welcome to Mohamed Tarek's Profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
-</h3>
+## 🌟 البروفايل الشخصي
+[![بروفايل طارق](https://img.shields.io/badge/-عرض_البروفايل-FF6B8B?style=for-the-badge&logo=github&logoColor=white)](https://abootarek.github.io/protofilo)
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=440&height=45&lines=Flutter+Developer;Always+learning+new+things" />
-  </a>
-</p>
+## � خصائص المشروع
+<div align="center">
+  
+| الميزة | الوصف |
+|--------|--------|
+| 🚀 أداء سريع | تصميم مع تحسين الأداء |
+| 🎨 واجهة أنمي | تصميم جذاب بأسلوب الأنمي |
+| 🔍 تفاصيل دقيقة | عرض معلومات متقدمة |
+| 📱 متجاوب | يعمل على جميع الأجهزة |
 
----
+</div>
 
-### 👨‍💻 About Me
+## 📊 إحصائيات GitHub
+<div align="center">
+  
+![إحصائيات طارق](https://github-readme-stats.vercel.app/api?username=abootarek&show_icons=true&theme=radical)
 
-- 💼 I'm a **Software Engineer** specialized in **Mobile Development**
-- 🎓 CS Graduate, always seeking growth and learning opportunities
-- 💬 Ask me about **Flutter**, **Dart**, or anything related to mobile apps
-- ⚽ Football is my second passion — **Hala Madrid!** ⚪⚫
-- 🌱 Currently working on polishing my portfolio and open source contributions
+![أكثر اللغات استخداماً](https://github-readme-stats.vercel.app/api/top-langs/?username=abootarek&layout=compact&theme=radical)
 
----
+</div>
 
-### 📫 Connect with Me
+## 🎥 أنيميشن المشروع
+```html
+<!-- يمكنك إضافة كود HTML/JS للأنيميشن هنا -->
+<div class="anime-container">
+  <div class="character"></div>
+  <div class="speech-bubble">مرحباً! أنا شخصية الأنمي الخاصة بالمشروع</div>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-tarek-71531b274/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:engmohamedtarekhosni@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/mohamed-tarek">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://abootarek.github.io/protofilo/">
-    <img src="https://img.shields.io/badge/-My%20Portfolio-FF4081?style=for-the-badge&logo=web&logoColor=white" />
-  </a>
-</p>
-
----
-
-### ⚙️ Tech Stack
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-tarek&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-tarek&theme=radical" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-tarek&layout=compact&theme=radical" width="50%" />
-</p> 
+<style>
+  .anime-container {
+    position: relative;
+    height: 200px;
+  }
+  
+  .character {
+    width: 100px;
+    height: 150px;
+    background-color: #FF6B8B;
+    border-radius: 50% 50% 0 0;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    animation: bounce 2s infinite;
+  }
+  
+  @keyframes bounce {
+    0%, 100% { transform: translateX(-50%) translateY(0); }
+    50% { transform: translateX(-50%) translateY(-20px); }
+  }
+</style>
