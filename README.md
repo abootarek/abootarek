@@ -1,76 +1,66 @@
-<!-- 👨‍💻 Anime Header -->
+<!-- Top Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Mohamed%20Tarek&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">
-  Hi, I'm Mohamed Tarek 👋
-</h1>
+<h3 align="center">
+  Mobile Application Developer | Flutter Engineer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=500&lines=Flutter+Developer;Mobile+Application+Engineer;Cross-Platform+Specialist;Always+Learning+New+Tech" />
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 I’m a **Mobile Application Developer** specialized in **Flutter & Dart**
-- 🎓 Bachelor's Degree in Computer Science
-- 📱 Building scalable Android & iOS apps
-- ⚽ Real Madrid Fan — *Hala Madrid!*  
-- 💬 Ask me about Flutter, Firebase, BLoC, Clean Architecture
-
----
-
-### 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/BLoC-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=22&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Engineer;Cross+Platform+Specialist;Clean+Architecture+%2B+BLoC" />
 </p>
 
 ---
 
-### 🚀 Projects
+## 👨‍💻 About Me
 
-🧠 **Jobizz App**  
-Smart job searching app built with Flutter using Clean Architecture and BLoC.
+> I'm a passionate **Mobile Application Developer** who loves building clean, scalable and high-performance apps using Flutter and Dart.
 
-📚 **Courses Store App**  
-A modern app to browse and purchase online courses.
+- ✅ Flutter & Dart Specialist  
+- ✅ Clean Architecture & BLoC Expert  
+- ✅ Firebase & REST APIs  
+- ✅ Android & iOS Development  
 
 ---
 
-### 📊 GitHub Stats
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-tarek&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-tarek&theme=radical" width="48%" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,cpp" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🚀 Featured Projects
+
+### 🧠 Jobizz App
+Smart job searching app built with Flutter following Clean Architecture.
+
+### 📚 Courses Store
+A modern Flutter app to browse and purchase online courses.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-tarek-71531b274/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:engmohamedtarekhosni@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://abootarek.github.io/protofilo/">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-tarek&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-tarek&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-tarek-71531b274/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:engmohamedtarekhosni@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://abootarek.github.io/protofilo/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmN8xbpB5kK9Bw5JgR/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="280"/>
 </p>
